@@ -1,6 +1,6 @@
 # Encapsulation-OOP-JAVA
 
-I learn about encapsulation while follow along a Youtube video.
+I learn about encapsulation while following along to a Youtube video.
 
 Encapsulation is when the class has private data and is the only class that can access that data.
 However, by using setter and getter method, we can get  access to the private data. 
